@@ -1,6 +1,6 @@
 {
   "title": "Histamine receptor population pharmacogenomics: reproducibility release",
-  "upload_type": "dataset",
+  "upload_type": "software",
   "description": "Reproducibility package containing analysis code, derived tables, final figure sources, and provenance records for a harmonized population-functional pharmacogenomic analysis of HRH1-HRH4.",
   "creators": [
     {
