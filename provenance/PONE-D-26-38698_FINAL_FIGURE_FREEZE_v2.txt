@@ -1,0 +1,85 @@
+PONE-D-26-38698 FINAL FIGURE FREEZE v2
+======================================
+
+FINAL FIGURE ARCHITECTURE
+
+Figure 1
+Integrated population functional pharmacogenomics workflow for HRH1-HRH4.
+
+Figure 2
+Integrated population-functional evidence layers across HRH1-HRH4.
+
+Figure 3
+Receptor-specific pharmacogenomic evidence layers.
+
+Figure 4
+Representative HRH ligand-pocket contacts and coding-variant structural context.
+
+Figure 5
+Integrated HRH4 ligand-variant prioritization.
+
+NUMERICAL QC
+PASS_COUNT=44
+FAIL_COUNT=0
+STATUS=PASS
+
+Key frozen invariants:
+precision-analysis variants = 2011
+true motif-disruption variants = 14
+direct GTEx records = 22
+direct GTEx unique variants = 11
+population pairwise tests = 59410
+contact-perturbation variants = 13
+ligand-aware rows = 16
+successful 71D3 redockings = 15
+failed 71D3 redockings = 1
+failed variant = p.Phe312Val
+
+Final receptor precision-set counts:
+HRH1 = 678
+HRH2 = 400
+HRH3 = 409
+HRH4 = 524
+
+Corrected direct motif counts:
+HRH1 = 0
+HRH2 = 8
+HRH3 = 0
+HRH4 = 6
+
+Direct GTEx/eQTL variant counts:
+HRH1 = 0
+HRH2 = 0
+HRH3 = 0
+HRH4 = 11
+
+Figure 5 top ligand-aware priority:
+immepip | p.Tyr319Cys
+score = 8.5
+
+Legacy publication-facing Figure 12/13 labels:
+ABSENT
+
+Internal "Precision monitoring" wording:
+ABSENT
+
+Internal "claim-strength grading" wording:
+ABSENT
+
+REPRODUCIBILITY NOTE
+
+Two successful v2 generation runs produced byte-identical 900-dpi
+PNG/TIFF quantitative figure files. SVG/PDF byte hashes varied across
+runs because of rendering/serialization metadata. The exact current
+SVG/PDF files are therefore frozen by SHA-256 below and must not be
+regenerated for submission unless a substantive scientific correction
+is authorized.
+
+FIGURE 1 NOTE
+
+Figure 1 is the approved de novo workflow schematic. The PNG content
+is frozen by SHA-256. The TIFF and PDF files are publication-format
+derivatives generated from the frozen PNG without scientific-content
+changes.
+
+FINAL_STATUS=LOCKED_FINAL_FIGURES_V2_PASS

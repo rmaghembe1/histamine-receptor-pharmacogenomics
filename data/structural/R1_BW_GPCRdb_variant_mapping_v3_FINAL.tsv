@@ -1,0 +1,23 @@
+gene	gpcrdb_entry	variant	reference_aa	position	alternate_aa	gpcrdb_api_aa	protein_segment	display_generic_number	ballesteros_weinstein_number	gpcrdb_generic_number	mapping_status	source_tables
+HRH1	hrh1_human	p.Val67Ile	V	67	I	V	TM2	2.44x44	2.44	2x44	PASS	Table2;Table64C
+HRH1	hrh1_human	p.Val79Ile	V	79	I	V	TM2	2.56x551	2.56	2x551	PASS	Table2;Table64C
+HRH1	hrh1_human	p.Arg175Cys	R	175	C	R	ECL2				PASS	Table2;Table64C
+HRH1	hrh1_human	p.Arg175His	R	175	H	R	ECL2				PASS	Table2;Table64C
+HRH1	hrh1_human	p.Leu205Phe	L	205	F	L	TM5	5.53x53	5.53	5x53	PASS	Table2;Table64C
+HRH1	hrh1_human	p.Glu410Lys	E	410	K	E	TM6	6.30x30	6.30	6x30	PASS	CanonicalSafeProteinCandidates;V31
+HRH2	hrh2_human	p.Asn266Ser	N	266	S	N	TM7	7.31x30	7.31	7x30	PASS	Table2;Table64C
+HRH3	hrh3_human	p.Ala77Val	A	77	V	A	TM2	2.47x47	2.47	2x47	PASS	Table64C
+HRH3	hrh3_human	p.Gly103Ser	G	103	S	G	TM3	3.21x21	3.21	3x21	PASS	Table2;Table64C
+HRH3	hrh3_human	p.Val214Ile	V	214	I	V	TM5	5.54x54	5.54	5x54	PASS	Table64C
+HRH3	hrh3_human	p.Val362Ile	V	362	I	V	TM6	6.39x39	6.39	6x39	PASS	Table64C
+HRH4	hrh4_human	p.Leu57Trp	L	57	W	L	TM2	2.46x46	2.46	2x46	PASS	Full71E2;Table2;Table64C;Table71E2
+HRH4	hrh4_human	p.Ile59Val	I	59	V	I	TM2	2.48x48	2.48	2x48	PASS	Full71E2;Table71E2
+HRH4	hrh4_human	p.Thr76Met	T	76	M	T	TM2	2.65x64	2.65	2x64	PASS	Full71E2;Table71E2
+HRH4	hrh4_human	p.Val88Gly	V	88	G	V	TM3	3.26x26	3.26	3x26	PASS	Full71E2;Table71E2
+HRH4	hrh4_human	p.Met136Leu	M	136	L	M	TM4	4.46x46	4.46	4x46	PASS	Full71E2;Table71E2
+HRH4	hrh4_human	p.Ala138Val	A	138	V	A	TM4	4.48x48	4.48	4x48	PASS	Full71E2;Table2;Table64C;Table71E2
+HRH4	hrh4_human	p.Thr178Ile	T	178	I	T	TM5	5.42x43	5.42	5x43	PASS	Full71E2;Table71E2
+HRH4	hrh4_human	p.Phe312Val	F	312	V	F	TM6	6.44x44	6.44	6x44	PASS	Full71E2;V31
+HRH4	hrh4_human	p.Ala313Ser	A	313	S	A	TM6	6.45x45	6.45	6x45	PASS	Full71E2;Table71E2
+HRH4	hrh4_human	p.Tyr319Cys	Y	319	C	Y	TM6	6.51x51	6.51	6x51	PASS	Full71E2;Table2;Table64C;Table71E2;V31
+HRH4	hrh4_human	p.Gly334Val	G	334	V	G	ECL3				PASS	Full71E2;Table71E2

@@ -1,0 +1,5 @@
+gene	candidate_variants	protein	splice	biogenesis_fate	motif_disruption_true	motif_context_only	ccre	gtex_true_hit	gtex_lookup_only	ld_context	docking_variant	population	regulatory_priority	population_significant_pairwise_tests	population_significant_variants	max_abs_delta_af	best_q_value	dominant_evidence_axes
+HRH1	678	25	2	25	0	0	0	0	0	3	25	651	650	3170	641	0.639533	0.000000000000	population:651;regulatory_priority:650;biogenesis_fate:25;docking_variant:25;protein:25;ld_context:3
+HRH2	400	10	0	4	8	55	11	0	30	11	4	343	386	1377	326	0.885245	0.000000000000	regulatory_priority:386;population:343;motif_context_only:55;gtex_lookup_only:30;ccre:11;ld_context:11
+HRH3	409	12	0	11	0	0	0	0	0	9	11	398	388	1704	383	0.680899	0.000000000000	population:398;regulatory_priority:388;protein:12;biogenesis_fate:11;docking_variant:11;ld_context:9
+HRH4	524	20	1	20	6	45	2	11	30	34	20	480	488	2096	444	0.745437	0.000000000000	regulatory_priority:488;population:480;motif_context_only:45;ld_context:34;gtex_lookup_only:30;biogenesis_fate:20

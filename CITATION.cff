@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and archived repository."
+title: "Histamine receptor population pharmacogenomics: reproducibility release"
+version: "1.0.0"
+date-released: "2026-09-19"
+authors:
+  - family-names: "Maghembe"
+    given-names: "Reuben S."
+type: software

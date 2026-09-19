@@ -1,0 +1,22 @@
+PUBLIC RELEASE PATH AUDIT ADJUDICATION
+======================================
+
+STATUS=PASS_WITH_DOCUMENTED_HISTORICAL_PATH_PROVENANCE
+
+The public release intentionally preserves the authoritative analysis
+scripts as executed rather than modifying their project-root bootstrap.
+
+The remaining absolute-path occurrences represent:
+1. historical project-root assignments in authoritative analysis scripts; and
+2. frozen source paths recorded in figure-QC provenance.
+
+These strings contain no access tokens, passwords, private credentials,
+or user-specific Windows profile paths.
+
+Three obsolete 71D3 development copies labelled before/broken were removed
+before publication. Only the authoritative final 71D3 implementation is
+retained.
+
+The historical project-root strings are retained to preserve source-code
+identity and execution provenance. Users may adapt the project root when
+re-executing code in a different filesystem layout.

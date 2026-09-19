@@ -1,0 +1,24 @@
+{
+  "title": "Histamine receptor population pharmacogenomics: reproducibility release",
+  "upload_type": "dataset",
+  "description": "Reproducibility package containing analysis code, derived tables, final figure sources, and provenance records for a harmonized population-functional pharmacogenomic analysis of HRH1-HRH4.",
+  "creators": [
+    {
+      "name": "Maghembe, Reuben S."
+    }
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-09-19",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "pharmacogenomics",
+    "histamine receptors",
+    "HRH1",
+    "HRH2",
+    "HRH3",
+    "HRH4",
+    "population genetics",
+    "molecular docking"
+  ]
+}
